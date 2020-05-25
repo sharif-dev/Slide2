@@ -6,6 +6,8 @@
     <string name="send">Send</string>
     <string name="reminder">Reminder Name</string>
     <string name="done">Done</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
     <string-array name="continents_array">
         <item>Africa</item>
         <item>Antarctica</item>
@@ -14,5 +16,15 @@
         <item>North America</item>
         <item>Oceania</item>
         <item>South America</item>
+    </string-array>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
     </string-array>
 </resources>
